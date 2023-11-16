@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/newsletter-sing-up/static/css/main.4b1a1ab4.css",
+    "main.js": "/newsletter-sing-up/static/js/main.4f308e77.js",
+    "static/js/787.305c1e17.chunk.js": "/newsletter-sing-up/static/js/787.305c1e17.chunk.js",
+    "static/media/Roboto-Bold.ttf": "/newsletter-sing-up/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/fotoPrincipal.svg": "/newsletter-sing-up/static/media/fotoPrincipal.ce2024babf0bc98a8862252535b544c9.svg",
+    "index.html": "/newsletter-sing-up/index.html",
+    "static/media/iconSuccess.svg": "/newsletter-sing-up/static/media/iconSuccess.1ad016255f85fa877dc6bee8c9621535.svg",
+    "static/media/icon-list.svg": "/newsletter-sing-up/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
+    "main.4b1a1ab4.css.map": "/newsletter-sing-up/static/css/main.4b1a1ab4.css.map",
+    "main.4f308e77.js.map": "/newsletter-sing-up/static/js/main.4f308e77.js.map",
+    "787.305c1e17.chunk.js.map": "/newsletter-sing-up/static/js/787.305c1e17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1a1ab4.css",
+    "static/js/main.4f308e77.js"
+  ]
+}
