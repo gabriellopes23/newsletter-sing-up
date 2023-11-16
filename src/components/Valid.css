@@ -1,0 +1,49 @@
+.pageConfirm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudoConfirm {
+    padding: 30px 30px;
+}
+
+.cardConfirm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 450px;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 20px 40px;
+    margin: 70px;
+}
+
+.cardConfirm img {
+    width: 70px;
+}
+
+.cardConfirm h1 {
+    font-size: 3.8rem;
+    font-weight: 700;
+    color: hsl(234, 29%, 20%);
+}
+
+.cardConfirm p {
+    font-weight: 400;
+    font-size: 1.1rem;
+    color: hsl(234, 29%, 20%);
+}
+
+.cardConfirm button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 20px;
+    background-color: hsl(234, 29%, 20%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    text-decoration: none;
+}
