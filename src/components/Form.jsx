@@ -71,7 +71,6 @@ export default props => {
                         </form>
                     </div>
                     <div className="imagem">
-                        <img src={ImgPrincipal} alt="Imagem Principal" />
                     </div>
                 </div>
             )}

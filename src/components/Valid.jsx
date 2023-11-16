@@ -1,7 +1,6 @@
 import './Valid.css'
 import React from "react";
 import iconSuccess from '../assets/images/iconSuccess.svg'
-import Form from './Form';
 
 export default props => {
     const handleDismiss = () => {

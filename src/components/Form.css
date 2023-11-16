@@ -88,12 +88,8 @@ body {
 }
 
 .imagem {
-    padding-right: 20px;
-}
-
-.imagem img {
-    padding-left: 30px;
-    width: 100%;
+    width: 60%;
+    background-image: url('../assets/images/fotoPrincipal.svg');
 }
 
 .error-message {
@@ -101,4 +97,26 @@ body {
     text-align: end;
     margin: 0;
     padding: 0;
+}
+
+@media (max-width: 900px) {
+    .page {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .imagem {
+        background-image: url('../assets/images/illustration-sign-up-mobile.svg');
+        width: 310px;
+        height: 279px;
+        border-radius: 20px;
+    }
 }
